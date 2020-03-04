@@ -15,3 +15,12 @@ def area2(xc, yc, xp, yp):
     return result
 
 print(area2(2,2,1,1))
+
+#Use the Math function instead
+#import math
+
+#def areaofcircle(r):
+#   area = math.pi * (r ** 2)
+#    return area
+
+#print(areaofcircle(10))
